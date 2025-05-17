@@ -1,0 +1,5 @@
+code_standards:
+  - Use snake_case for function names
+  - Avoid hardcoded strings
+  - Add type hints to all functions
+  - Use f-strings instead of %
